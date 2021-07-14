@@ -13,4 +13,3 @@ airflow/.ipython/
 airflow/.local/
 airflow/logs
 airflow/dags/billing/notebooks/.ipynb_checkpoints/
-.env
